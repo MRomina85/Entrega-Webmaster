@@ -1,0 +1,211 @@
+*{
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+html{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	scroll-behavior: smooth;
+}
+.header1{
+	padding-top: 20px;
+	background-color: whitesmoke;
+	text-align: right; 
+}
+.logo{
+	width: 180px;
+}	
+.nav-item{
+	font-size: 16px;
+}
+
+.cabecera{
+    position: sticky;
+	top: 0px;
+	padding:2px 2px;
+	box-sizing: border-box;
+	color: rgb(24, 22, 22);
+	z-index:1;
+}
+#navbarDropdown{ 
+	text-align: left;
+	
+}
+
+h3{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bolder;
+}
+
+	
+.caja{
+	padding-top: 40px;
+	
+}
+.caja2{
+	padding-left: 100px
+}
+.cajatextserv{
+	text-align: right;
+	
+}
+
+.productos{
+	background-color: rgba(211, 210, 210, 0.699);
+	padding-bottom: 40px;
+}
+.espacio{
+	padding: 20px;
+}
+.cajatext{
+	padding-top: 60px;
+}
+.cajaiconos{
+	justify-content: center;
+}
+.iconos{
+	padding-top: 20px;
+	width: 30%;
+}
+.titulo{
+	padding-top: 50px;
+	padding-bottom: 30px;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.card-text, ul, li{
+	font-size: 12px;
+}
+.contenedor-comprar {
+	display: flex;
+	}
+.tituloprod{
+padding-top: 10px;
+	}
+.body-form{
+		background:url(img/fondo\ contacto-01.png);
+		-webkit-background-size: cover;
+		background-size: cover;
+		background-attachment: fixed;
+	}
+	.contenedor .form .form-header .form-title{
+		font-weight: normal;
+		font-family: sans-serif;
+		color:orange;
+		text-align: center;
+		padding: 14px 0;
+	}
+	.contenedor .form {
+		background: rgba (0,0,0,.6);
+		width: 90%;
+		max-width: 650px;
+		margin: auto;
+		padding: 5px 35px;
+		margin-top: 30px;
+		padding-bottom: 30px;
+		border-radius: 3px;
+	}
+	.contenedor .form .form-label{
+		display: block;
+		color: orange;
+		font-size: 16px;
+		font-family: Verdana, Geneva, Tahoma, sans-serif;
+		position: relative;
+	}
+	.contenedor .form .form-input, .form-textarea{
+		background: rgba(0, 0, 0, 0.7);
+		border: none;
+		outline: none;
+		border-bottom: 2px solid orange;
+		width: 100%;
+		padding:12px;
+		margin-bottom: 20px;
+		border-radius: 2px;
+		font-size: 14px;
+		color: #FFF;
+		font-family: sans-serif;
+	}
+    .contenedor .form .form-textarea{
+		resize: vertical;
+		max-height: 150px ;
+		min-height: 50px;
+	}
+	.contenedor .form .btn-submit{
+		width: 100%;
+		font-family: sans-serif;
+		outline: none;
+		background: orange;
+		font-size:16px ;
+		border: none;
+		color: #fff;
+		padding: 15px 0;
+		cursor: pointer;
+		transition: all .5s ease;
+	}
+	.contenedor .form .btn-submit:hover{
+		background: rgb(241, 219, 14);
+	}
+	span{
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+.footer{	
+	background-color: #424546f6;
+	color: honeydew;
+	text-align: center;
+	padding-bottom: 20px;
+}
+.iconos{
+	width: 25%;
+}
+
+/*XL*/
+@media screen and (min-width: 1301px){
+	
+   
+
+}
+/*Primero se definen los breackpoints o rangos de medida*/
+
+/*Desktop - large*/
+/*Todos los dispositivos de hoy son screen*/
+@media screen and (min-width:990px) and (max-width:1300px){
+	
+  
+
+}
+
+/*Dispositivos Medianos - Medium - Md*/
+@media screen and (max-width:989px) and (min-width:580px){
+	/*test*/
+	
+
+	
+	.logo{
+		width: 50%;
+		padding-left: 2px;
+	}
+	
+	
+	
+}
+
+/*Dispositivos pequeños - Small*/
+@media screen and (max-width:579px) and (min-width:0px){
+	
+	.logo{
+		width: 50%;
+	}
+	
+	.iconos{
+		display: flex;
+		width: 15%;
+	}
+}

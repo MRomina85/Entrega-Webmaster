@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 152 156" style="enable-background:new 0 0 152 156;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#FFFFFF;}
+</style>
+<g>
+	
+		<radialGradient id="SVGID_1_" cx="-239.5193" cy="35.6053" r="277.6654" fx="-325.1665" fy="23.1639" gradientTransform="matrix(0.6534 -0.757 -0.6147 -0.5306 208.5165 -45.0842)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#EEE33F"/>
+		<stop  offset="5.363794e-02" style="stop-color:#EAD84F"/>
+		<stop  offset="0.1636" style="stop-color:#DFB767"/>
+		<stop  offset="0.3185" style="stop-color:#D08076"/>
+		<stop  offset="0.4486" style="stop-color:#C03974"/>
+		<stop  offset="0.592" style="stop-color:#9E4481"/>
+		<stop  offset="0.7358" style="stop-color:#794A8A"/>
+		<stop  offset="0.8568" style="stop-color:#5C4B90"/>
+		<stop  offset="0.9484" style="stop-color:#444A93"/>
+		<stop  offset="1" style="stop-color:#384993"/>
+	</radialGradient>
+	<path class="st0" d="M143.4,123.6c0,12.9-10.4,23.3-23.3,23.3h-90c-12.9,0-23.3-10.4-23.3-23.3V33.7c0-12.9,10.4-23.3,23.3-23.3
+		H120c12.9,0,23.3,10.4,23.3,23.3L143.4,123.6L143.4,123.6z"/>
+	<g>
+		<g>
+			<path class="st1" d="M96.8,132.8H53.3c-19.3,0-35-15.7-35-35V59.5c0-19.3,15.7-35,35-35h43.5c19.3,0,35,15.7,35,35v38.3
+				C131.8,117.1,116.1,132.8,96.8,132.8z M53.3,32.2c-15,0-27.2,12.2-27.2,27.2v38.3c0,15,12.2,27.2,27.2,27.2h43.5
+				c15,0,27.2-12.2,27.2-27.2V59.5c0-15-12.2-27.2-27.2-27.2H53.3V32.2z"/>
+		</g>
+		<g>
+			<path class="st1" d="M75.1,109.8c-17.2,0-31.2-14-31.2-31.2s14-31.2,31.2-31.2s31.2,14,31.2,31.2
+				C106.2,95.8,92.3,109.8,75.1,109.8z M75.1,55.3c-12.9,0-23.4,10.5-23.4,23.4s10.5,23.4,23.4,23.4s23.4-10.5,23.4-23.4
+				C98.5,65.7,88,55.3,75.1,55.3z"/>
+		</g>
+		<g>
+			<path class="st1" d="M112.2,48.4c0,3.6-2.9,6.5-6.5,6.5s-6.5-2.9-6.5-6.5s2.9-6.5,6.5-6.5C109.3,42,112.2,44.9,112.2,48.4z"/>
+		</g>
+	</g>
+</g>
+</svg>
