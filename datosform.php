@@ -147,12 +147,8 @@
    }
 
    //Aprovechamos los datos que llegan por POST,para cargarlos a  una base de datos MySQL
+  //Puede ser exit() o tambien die()
 
-
-   //Conexiosn MySQL- al servidor MySQL de XAMPP
-   //Puede ser exit() o tambien die()
-
-  
    @$conexion = mysqli_connect("localhost","id14000326_romina","Webmaster-2020","id14000326_digitek")or die("Error de conexion");
    
   
